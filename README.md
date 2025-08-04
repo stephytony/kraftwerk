@@ -32,7 +32,7 @@ As per the analysis we determined that the below factors have influenced on coup
 Weather Impact Histogram --> https://github.com/stephytony/kraftwerk/blob/main/images/weather-and-temp-impact.png 
 Travelling with friends --> https://github.com/stephytony/kraftwerk/blob/main/images/passanger-impact_point-plot.png
 Total observations --> https://github.com/stephytony/kraftwerk/blob/main/images/total_observations.png
-Coupo s Var acceptance rate --> https://github.com/stephytony/kraftwerk/blob/main/images/bar-coupons-acceptance.png
+Coupons Bar acceptance rate --> https://github.com/stephytony/kraftwerk/blob/main/images/bar-coupons-acceptance.png
 
     1. Sunny Weather even during a snowy temperature
     2. Travelling with friends
