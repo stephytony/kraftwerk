@@ -41,4 +41,7 @@ Coupons Bar acceptance rate --> https://github.com/stephytony/kraftwerk/blob/mai
 
 ## Next Steps and Recommendations :
 
-    1. More Data will provide better analysis. My recommendation is to collect data with users which shows high influence on coupon usage. This will give us more fine tuned analysis as we have the first set ready. The factors that looks no impact can be removed or can be not used in our future pattern analysis.
+    More Data helps in better analysis. 
+    My recommendation is to collect data with users which shows high influence on coupon usage. 
+    This will give us more fine tuned analysis as we have the first set ready. 
+    The factors that looks no impact can be removed or can be not used in our future pattern analysis.
