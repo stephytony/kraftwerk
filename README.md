@@ -1,6 +1,6 @@
 # Assignment 5.1: Will the Customer Accept the Coupon?
 
-## Link to Jupyter Notebook Link -> 
+## Link to Jupyter Notebook Link -> https://github.com/stephytony/kraftwerk/blob/main/prompt.ipynb 
 
 ## Introduction : 
 
@@ -29,9 +29,16 @@ This analysis is based on the data in coupons.csv and comparing the factors that
 
 As per the analysis we determined that the below factors have influenced on coupon usuage
 
-Weather Impact
+Weather Impact Histogram --> https://github.com/stephytony/kraftwerk/blob/main/images/weather-and-temp-impact.png 
+Travelling with friends --> https://github.com/stephytony/kraftwerk/blob/main/images/passanger-impact_point-plot.png
+Total observations --> https://github.com/stephytony/kraftwerk/blob/main/images/total_observations.png
+Coupo s Var acceptance rate --> https://github.com/stephytony/kraftwerk/blob/main/images/bar-coupons-acceptance.png
 
     1. Sunny Weather even during a snowy temperature
     2. Travelling with friends
     3. Drivers with college degree
     4. Male drivers travelling alone
+
+## Next Steps and Recommendations :
+
+    1. More Data will provide better analysis. My recommendation is to collect data with users which shows high influence on coupon usage. This will give us more fine tuned analysis as we have the first set ready. The factors that looks no impact can be removed or can be not used in our future pattern analysis.
